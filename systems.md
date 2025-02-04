@@ -2,7 +2,7 @@
 
 不同品牌的智能手錶在軟體相容性方面各有差異：
 
-Google Pixel Watch：需與搭載Android 8.0以上版本的相容Android手機配對使用。 
+Google Pixel Watch：需與搭載Android 9.0以上版本的相容Android手機配對使用。 
 
 Garmin：其智慧手錶需與Android 9.0或更高版本的裝置相容，並且裝置必須原生支援Google Play商店。 
 
